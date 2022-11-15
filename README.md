@@ -1,6 +1,8 @@
 # discordBot-Demons
 Bot for Demons Community | Programmed --> JS
 
+***The bot is created for a Spanish-speaking community.***
+
 I'll be uploading regularly
 
 # Feature
