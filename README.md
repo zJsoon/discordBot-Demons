@@ -11,8 +11,17 @@ I'll be uploading regularly
 - .env -> Token protection system
 
 ## Commands
+
+### Help
+
 - /help
+
+### Private
+
 - /createverify
+
+### Public
+
 - /avatar (Soon..)
 - /info (Soon..)
 - /ping
