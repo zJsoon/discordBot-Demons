@@ -20,7 +20,7 @@ I'll be uploading regularly
 
 - /createverify
 
-### Public
+### Utils
 
 - /avatar (Soon..)
 - /info (Soon..)
