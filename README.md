@@ -12,7 +12,7 @@ I'll be uploading regularly
 
 ## Commands
 - /help
-- /createverify (Soon..)
+- /createverify
 - /avatar (Soon..)
 - /info (Soon..)
 - /ping
