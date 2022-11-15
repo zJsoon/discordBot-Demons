@@ -12,7 +12,12 @@ I'll be uploading regularly
 
 ## Commands
 - /help
+- /createverify (Soon..)
+- /avatar (Soon..)
+- /info (Soon..)
 - /ping
+- /stats (Soon..)
+- /userinfo (Soon..)
 
 # Requeriments
 - Node.js | [Click to Download](https://nodejs.org/en/download/)
