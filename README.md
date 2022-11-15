@@ -18,4 +18,4 @@ I'll be uploading regularly
 
 # Credits
 
-This base of the has been produced with the help of [Jaime](https://github.com/Jaimeetxebarria)
+This base of the bot has been produced with the help of [Jaime](https://github.com/Jaimeetxebarria)
