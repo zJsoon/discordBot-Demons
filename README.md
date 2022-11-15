@@ -1,6 +1,8 @@
 # discordBot-Demons
 Bot for Demons Community | Programmed --> JS
 
+I'll be uploading regularly
+
 # Feature
 - discord.js version -> V14.6.0
 - Slash Commands
