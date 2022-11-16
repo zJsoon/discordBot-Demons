@@ -5,7 +5,7 @@ Bot for Demons Community | Programmed --> JS
 
 I'll be uploading regularly
 
-[Comtact Me!](https://zjson.dev/contact)
+[Contact Me!](https://zjson.dev/contact)
 
 # Feature
 - discord.js version -> V14.6.0
