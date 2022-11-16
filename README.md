@@ -5,6 +5,8 @@ Bot for Demons Community | Programmed --> JS
 
 I'll be uploading regularly
 
+[Comtact Me!](https://zjson.dev/contact)
+
 # Feature
 - discord.js version -> V14.6.0
 - Slash Commands
@@ -22,8 +24,8 @@ I'll be uploading regularly
 
 ### Utils
 
-- /avatar (Soon..)
-- /info (Soon..)
+- /avatar
+- /info
 - /ping
 - /stats (Soon..)
 - /userinfo (Soon..)
