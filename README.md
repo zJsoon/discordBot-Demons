@@ -27,7 +27,7 @@ I'll be uploading regularly
 - /avatar
 - /info
 - /ping
-- /stats (Soon..)
+- /stats
 - /userinfo (Soon..)
 
 # Requeriments
