@@ -31,6 +31,8 @@ I'll be uploading regularly
 - /ping
 - /stats
 - /userinfo
+- /lvl{XP} (Soon...)
+- /lb{XP} (Soon...)
 
 # Requeriments
 - Node.js | [Click to Download](https://nodejs.org/en/download/)
