@@ -21,6 +21,8 @@ I'll be uploading regularly
 ### Private
 
 - /createverify
+- /rules{example} (Soon...)
+- /announce (Soon...)
 
 ### Utils
 
@@ -28,7 +30,7 @@ I'll be uploading regularly
 - /info
 - /ping
 - /stats
-- /userinfo (Soon..)
+- /userinfo
 
 # Requeriments
 - Node.js | [Click to Download](https://nodejs.org/en/download/)
