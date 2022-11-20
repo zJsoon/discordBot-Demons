@@ -21,7 +21,7 @@ I'll be uploading regularly
 ### Private
 
 - /createverify
-- /rules{example} (Soon...)
+- /rules {example, anything that appears in .setDescription() can have its text changed to something else.}
 - /announce (Soon...)
 
 ### Utils
