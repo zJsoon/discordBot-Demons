@@ -31,7 +31,7 @@ I'll be uploading regularly
 - /ping
 - /stats
 - /userinfo
-- /suggestion (Soon...)
+- /suggestion
 - /lvl{XP} (Soon...)
 - /lb{XP} (Soon...)
 
