@@ -22,7 +22,7 @@ I'll be uploading regularly
 
 - /createverify
 - /rules {example, anything that appears in .setDescription() can have its text changed to something else.}
-- /announce (Soon...)
+- /announce
 
 ### Utils
 
